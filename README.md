@@ -1,13 +1,13 @@
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://otkritkis.com/wp-content/uploads/2022/07/ifa7n.gif)" width="30px"/>
 </h1>
 
 <div align="center">
   <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://disk.yandex.ru/i/pY6kkVqB-EtQIA)" width="600" height="300"/>
 </div>
 
-### 🙇‍♂: About Me :
+### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
